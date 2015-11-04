@@ -328,7 +328,8 @@ See also [http://areweideyet.com/](http://areweideyet.com/) and [Rust and IDEs](
 
 * CommonMark
   * [google/pulldown-cmark](https://github.com/google/pulldown-cmark) — [CommonMark](http://commonmark.org/) parser in Rust
-
+  
+* [Rust-Pandoc](https://github.com/oli-obk/rust-pandoc) - Wrapper around pandoc
 
 ### Mobile
 
